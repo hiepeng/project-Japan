@@ -80,7 +80,7 @@ function activeSlider() {
     });
   });
 } else{
-  slider[0].scroll(208, 0);
+  slider[0].scroll(500, 0);
   imageClick.forEach(itemFor => 
     itemFor .classList.add("active-item")
   )
