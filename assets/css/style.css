@@ -815,7 +815,7 @@ html {
   font-size: 36px;
   display: flex;
   align-items: center;
-  letter-spacing: 8px;
+  letter-spacing: -5px;
   padding-bottom: 8px;
   padding-left: 29px;
   overflow: hidden;
