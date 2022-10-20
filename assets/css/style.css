@@ -350,12 +350,13 @@ html {
 
 .about-content p {
   letter-spacing: 5px;
-  line-height: 28px;
+  line-height: 34px;
   font-size: 20px;
   padding-left: 4px;
   font-weight: 500;
   color: #323131;
   max-width: 649px;
+  margin-top: -4px;
 }
 
 /* end block about */
@@ -371,7 +372,7 @@ html {
     linear-gradient(transparent, #158498, transparent);
   min-height: 100vh;
   padding-bottom: 388px;
-  padding-top: 118px;
+  padding-top: 116px;
 }
 
 .feature-wrapper .wrapper {
